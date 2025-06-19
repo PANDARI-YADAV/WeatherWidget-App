@@ -32,7 +32,7 @@ A responsive and user-friendly **Weather Application** built with **React** and 
 
 ### Steps
 
-1. **Clone the repository**
+1. **Clone the repository & run project**
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
