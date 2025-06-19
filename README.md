@@ -1,12 +1,44 @@
-# React + Vite
+# 🌦️ Weather App (React + Material UI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and user-friendly **Weather Application** built with **React** and **Material UI**, allowing users to search weather conditions of any city, state, or country. It fetches real-time data from the **OpenWeatherMap API** and dynamically displays weather icons and detailed weather info such as temperature, humidity, and weather description.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Search weather by **city**, **state**, or **country**
+- 🌡️ Display current weather:
+  - Temperature (°C)
+  - Humidity (%)
+  - Min & Max Temperature
+  - Feels Like Temperature
+  - Weather Description
+- 🌁 Shows image and icon based on weather (e.g., Rain, Clouds, Sun)
+- ⚠️ Graceful error message if the place is invalid or not found
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- ⚛️ React
+- 🎨 Material UI (MUI)
+- **API**: [OpenWeatherMap API](https://openweathermap.org/api)  
+  Endpoint used:https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+
+## 📦 Installation & Setup
+
+### Prerequisites
+
+- Node.js and npm installed on your machine
+
+### Steps
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
+
+cd weather-app
+npm install
+npm run dev
+[http://localhost:](http://localhost:5173/)
+
+
