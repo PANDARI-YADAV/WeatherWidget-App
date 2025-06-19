@@ -35,10 +35,10 @@ A responsive and user-friendly **Weather Application** built with **React** and 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/weather-app.git
+   cd weather-app
+    npm install
+    npm run dev
 
-cd weather-app
-npm install
-npm run dev
-[http://localhost:](http://localhost:5173/)
+  [http://localhost:](http://localhost:5173/)
 
 
