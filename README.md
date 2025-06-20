@@ -20,8 +20,8 @@ A responsive and user-friendly **Weather Application** built with **React** and 
 ## 🛠️ Tech Stack
 - ⚛️ React
 - 🎨 Material UI (MUI)
-- **API**: [OpenWeatherMap API](https://openweathermap.org/api)  
-  Endpoint used:https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+- **API**: [OpenWeatherMap API]()  
+
 
 
 ## 📦 Installation & Setup
